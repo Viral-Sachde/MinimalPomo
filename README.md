@@ -1,18 +1,18 @@
-# Pomo Productivity Timer
+# Minimal Minimal Pomo (Productivity Timer)
 
-Welcome to the Pomo Productivity Timer project! This web application is a simple and elegant solution to boost your productivity using the Pomodoro Technique. The app is built with React.js and styled with Tailwind CSS for a clean and modern user interface.
+Welcome to the Minimal Minimal Pomo (Productivity Timer) project! This web application is a simple and elegant solution to boost your productivity using the Pomodoro Technique. The app is built with React.js and styled with Tailwind CSS for a clean and modern user interface.
 
 ## Features
 
 - **Pomodoro Technique:** Break your work into intervals, traditionally 25 minutes in length, separated by short breaks. This technique helps improve focus and productivity.
 
-- **Minimal and Cleanest Design:** Receive visual and audio cues to signify the start and end of each work or break session. Stay on track without constantly checking the ti
+- **Minimal and Cleanest Design:** Minimal and Smoothest possible design to improve your work efficiency.
   
-- **Responsive Design:** Access the Pomo Productivity Timer seamlessly on various devices. The responsive design ensures a consistent and enjoyable experience across desktops, tablets, and mobile phones.
+- **Responsive Design:** Access the Minimal Minimal Pomo (Productivity Timer) seamlessly on various devices. The responsive design ensures a consistent and enjoyable experience across desktops, tablets, and mobile phones.
 
 ## Getting Started
 
-To use the Pomo Productivity Timer, simply visit [https://minimal-pomo.vercel.app](https://minimal-pomo.vercel.app) in your web browser. No downloads or installations are required. Customize the timer duration, and start boosting your productivity today!
+To use the Minimal Minimal Pomo (Productivity Timer), simply visit [https://minimal-pomo.vercel.app](https://minimal-pomo.vercel.app) in your web browser. No downloads or installations are required. Customize the timer duration, and start boosting your productivity today!
 
 ## Installation
 
@@ -42,7 +42,7 @@ If you prefer running the app locally, follow these steps:
    npm start
    ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to use the Pomo Productivity Timer locally.
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to use the Minimal Minimal Pomo (Productivity Timer) locally.
 
 ## Contributing
 
@@ -50,8 +50,8 @@ If you'd like to contribute to the project, feel free to open an issue, submit a
 
 ## Feedback
 
-Have suggestions or found a bug? Please open an issue [here](https://github.com/Viral-Sachde/MinimalPomo/issues). Your feedback is valuable and helps make the Pomo Productivity Timer better for everyone.
+Have suggestions or found a bug? Please open an issue [here](https://github.com/Viral-Sachde/MinimalPomo/issues). Your feedback is valuable and helps make the Minimal Minimal Pomo (Productivity Timer) better for everyone.
 
 ## Thank You
 
-Thank you for using the Pomo Productivity Timer! Happy focused working! 🍅✨
+Thank you for using the Minimal Minimal Pomo (Productivity Timer)! Happy focused working! 🍅✨
